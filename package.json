@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-superawesome",
+  "version": "1.0.0",
+  "description": "Style Linting for SuperAwesome Labs projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superawesomelabs/stylelint-config-superawesome.git"
+  },
+  "keywords": [
+    "stylelint",
+    "config",
+    "superawesome"
+  ],
+  "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superawesomelabs/stylelint-config-superawesome/issues"
+  },
+  "homepage": "https://github.com/superawesomelabs/stylelint-config-superawesome#readme"
+}
